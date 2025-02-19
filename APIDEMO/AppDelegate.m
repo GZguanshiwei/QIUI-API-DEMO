@@ -10,6 +10,8 @@
 
 @interface AppDelegate ()
 
+// Override point for customization after application launch.
+
 @end
 
 @implementation AppDelegate
